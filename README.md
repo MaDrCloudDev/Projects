@@ -1,3 +1,3 @@
-# My [projects documentation](https://MaDr.blog) site built with Astro
-(build only)
+# My [projects documentation site](https://MaDr.blog)
+built with Astro (build only)
 
